@@ -2,12 +2,10 @@
   "server": "https://tai.hddsao.pro/assetbunble/",
   "api_url": [
     "https://api.api-sao789.space",
-    "https://sao20.api-sao789.space",
     "https://sao28.api-sao789.space",
     "https://sao29.api-sao789.space",
     "https://saooa13.api-sao789.space",
     "https://saodds21.api-sao789.space",
-    "https://saofes27.api-sao789.space"
   ],
   "gameAnd": 1,
   "gameIos": 1,
